@@ -1,6 +1,3 @@
-<!-- eslint-disable vue/valid-v-for -->
-<!-- eslint-disable vue/no-parsing-error -->
-<!-- eslint-disable vue/require-v-for-key -->
 <template lang="">
   <div>
     <list-item></list-item>
@@ -15,4 +12,4 @@ export default {
   },
 };
 </script>
-<style scoped></style>
+<style></style>
